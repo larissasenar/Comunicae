@@ -482,20 +482,6 @@ section.footer {
 /*== Media queries==*/
 /*smartphone portail*/
 @media (min-width: 0px) {
-    /* .menu-hamburguer {
-        display: block;
-    }
-
-    .nav {
-        display: none;
-    }
-
-    .nav-responsive {
-        display: block;
-        font-size: 1.2rem;
-        margin: 0.5rem 0;
-    } */
-
     /*teste menu*/
     .nav {
         display: none;
