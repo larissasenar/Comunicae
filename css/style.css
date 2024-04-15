@@ -419,6 +419,45 @@ footer {
     box-shadow: 0 0 0.3rem var(--color-01);
 }
 
+/*linha separação site*/
+
+section.home {
+    padding: 40px 4%;
+    color: #fff;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+}
+section.services {
+    padding: 40px 4%;
+    color: #fff;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+}
+
+section.portfolio {
+    padding: 40px 4%;
+    color: #fff;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+}
+
+section.contact {
+    padding: 40px 4%;
+    color: #fff;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+}
+
+section.about{
+    padding: 40px 4%;
+    color: #fff;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+}
+
+section.footer {
+    padding: 40px 4%;
+    color: #fff;
+    box-shadow: 0 0 50px 10px #ffffff1d;
+}
+
+
+
 /*button*/
 
 .btn {
